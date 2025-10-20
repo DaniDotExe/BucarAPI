@@ -126,7 +126,7 @@ def main():
     Función principal
     """
     # Columnas deseadas por defecto
-    columnas_deseadas = ['Ciudad', 'Fecha', 'Hora', 'Temperatura', 'Presión']
+    columnas_deseadas = ['Ciudad', 'Fecha', 'Hora', 'Temperatura', 'Presión', 'Humedad']
     
     print("\n" + "="*70)
     print("EXPORTAR COLUMNAS ESPECÍFICAS DE EXCEL")
