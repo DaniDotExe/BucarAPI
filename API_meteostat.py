@@ -159,7 +159,7 @@ def main():
             fecha_fin = ''
         # Sanitizar nombre de ciudad para evitar caracteres inválidos en el nombre de archivo
         ciudad_clean = ''.join(c if c.isalnum() or c in ('_', '-') else '_' for c in ciudad).replace(' ', '_')
-        nombre_archivo = f'{ciudad_clean}_{fecha_inicio}_{fecha_fin}.xlsx'
+        nombre_archivo = f'meteostat_{ciudad_clean}_{fecha_inicio}_{fecha_fin}.xlsx'
         guardar_excel(df, nombre_archivo=nombre_archivo)
         
         # Mostrar primeras y últimas filas
