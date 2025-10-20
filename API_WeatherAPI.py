@@ -222,6 +222,54 @@ def guardar_excel(df, nombre_archivo='WeatherAPI_Bucaramanga.xlsx'):
     except Exception as e:
         print(f"Error al guardar el archivo Excel: {e}")
 
+def imprimir_unidades(df=None):
+    """
+    Imprime en consola las unidades de cada variable.
+    Si se pasa un DataFrame, sólo muestra las unidades de las columnas presentes.
+    Devuelve el diccionario de unidades (filtrado si se pasó df).
+    """
+    unidades = {
+        'Ciudad': '-',
+        'Fecha': 'dd/mm/YYYY',
+        'Hora': 'HH:MM',
+        'Temperatura': '°C',
+        'Presión': 'hPa (mb)',
+        'Humedad': '%',
+        'Punto de Rocío': '°C',
+        'Precipitación': 'mm',
+        'Dirección Viento': 'grados',
+        'Velocidad Viento': 'km/h',
+        'Ráfaga Viento': 'km/h',
+        'Condición': 'texto',
+        'Nubosidad': '%',
+        'Sensación Térmica': '°C',
+        'Visibilidad': 'km',
+        'Índice UV': 'índice (adimensional)'
+    }
+
+    print("\n" + "=" * 40)
+    print("UNIDADES DE LAS VARIABLES")
+    print("=" * 40)
+
+    if df is not None:
+        cols = [c for c in df.columns if c in unidades]
+        if not cols:
+            print("No se encontraron columnas conocidas en el DataFrame.")
+        for col in cols:
+            print(f"{col}: {unidades.get(col, '(unidad desconocida)')}")
+        # mostrar si hay columnas del DF sin mapeo
+        unmapped = [c for c in df.columns if c not in unidades]
+        if unmapped:
+            print("\nColumnas sin unidad definida:")
+            for c in unmapped:
+                print(f"{c}: (unidad desconocida)")
+        # devolver sólo las unidades relevantes
+        return {c: unidades.get(c, None) for c in df.columns}
+    else:
+        for k, v in unidades.items():
+            print(f"{k}: {v}")
+        return unidades
+
 def main():
     """
     Función principal
@@ -272,6 +320,9 @@ def main():
         print(df.head().to_string(index=False))
         print("\nÚltimos 5 registros:")
         print(df.tail().to_string(index=False))
+        print("\n")
+        print("Unidades de las variables:")
+        imprimir_unidades(df)
     else:
         print("No se pudieron obtener los datos.")
 
