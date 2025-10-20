@@ -1,0 +1,3549 @@
+{
+  "metadata": {
+    "archivo": "Bucaramanga_20241201_20251017.xlsx",
+    "fecha_analisis": "2025-10-20 15:10:01",
+    "total_registros": 7681
+  },
+  "temperatura": {
+    "registros_faltantes": [
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "23:00"
+      }
+    ],
+    "total_faltantes": 130,
+    "porcentaje": 1.69
+  },
+  "presion": {
+    "registros_faltantes": [
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/12/2024",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/12/2024",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/12/2024",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/12/2024",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/12/2024",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/12/2024",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/12/2024",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/12/2024",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/12/2024",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/12/2024",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/03/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/03/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/03/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/03/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/03/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/03/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/03/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/03/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/04/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/04/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "20/04/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/04/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "22/04/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "22/04/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "23:00"
+      }
+    ],
+    "total_faltantes": 426,
+    "porcentaje": 5.55
+  },
+  "humedad": {
+    "registros_faltantes": [
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/03/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "18/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "19/03/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "21/03/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "17/04/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "10/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "11/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "12/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "13/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "14/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "15/10/2025",
+        "hora": "23:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "01:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "02:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "03:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "04:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "05:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "07:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "08:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "09:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "10:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "11:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "13:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "14:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "15:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "16:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "17:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "19:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "20:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "21:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "22:00"
+      },
+      {
+        "ciudad": "Bucaramanga",
+        "fecha": "16/10/2025",
+        "hora": "23:00"
+      }
+    ],
+    "total_faltantes": 148,
+    "porcentaje": 1.93
+  },
+  "resumen": {
+    "registros_con_datos_completos": 7255,
+    "registros_con_al_menos_un_faltante": 426
+  }
+}
