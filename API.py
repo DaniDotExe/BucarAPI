@@ -86,7 +86,7 @@ def obtener_datos_meteorologicos():
     
     return df_final
 
-def guardar_excel(df, nombre_archivo='datos_meteorologicos_bucaramanga.xlsx'):
+def guardar_excel(df, nombre_archivo='Bucaramanga.xlsx'):
     """
     Guarda el DataFrame en formato Excel
     """
@@ -147,7 +147,20 @@ def main():
     
     if df is not None:
         # Guardar en Excel
-        guardar_excel(df)
+        # Guardar archivo con formato ciudad_fechainicio_fechafin.xlsx
+        ciudad = str(df['Ciudad'].iloc[0])
+        # Convertir 'Fecha' (dd/mm/YYYY) a datetime y obtener fecha inicio/fin en YYYYMMDD
+        fechas = pd.to_datetime(df['Fecha'], dayfirst=True, errors='coerce')
+        if not fechas.isnull().all():
+            fecha_inicio = fechas.min().strftime('%Y%m%d')
+            fecha_fin = fechas.max().strftime('%Y%m%d')
+        else:
+            fecha_inicio = ''
+            fecha_fin = ''
+        # Sanitizar nombre de ciudad para evitar caracteres inválidos en el nombre de archivo
+        ciudad_clean = ''.join(c if c.isalnum() or c in ('_', '-') else '_' for c in ciudad).replace(' ', '_')
+        nombre_archivo = f'{ciudad_clean}_{fecha_inicio}_{fecha_fin}.xlsx'
+        guardar_excel(df, nombre_archivo=nombre_archivo)
         
         # Mostrar primeras y últimas filas
         print("\nPrimeros 5 registros:")
