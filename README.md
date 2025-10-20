@@ -33,42 +33,7 @@ pip install -r requirements.txt
 
 ## Uso
 
-### Opción 1: Proceso completo (Recomendado) 🚀
-
-Ejecuta todo el proceso de una sola vez:
-
-```bash
-# Usando el script interactivo
-./ejecutar.sh
-# Selecciona la opción 1
-
-# O directamente:
-source venv/bin/activate
-python proceso_completo.py
-```
-
-Este script ejecuta automáticamente:
-1. Extracción de datos de Meteostat
-2. Generación de archivo con unidades
-
-### Opción 2: Ejecución paso a paso
-
-#### 2.1. Extracción de datos meteorológicos
-
-```bash
-source venv/bin/activate
-python Main.py
-```
-
-Genera: `datos_meteorologicos_bucaramanga.xlsx`
-
-#### 2.2. Agregar unidades a las columnas
-
-```bash
-python agregar_unidades.py
-```
-
-Genera: `datos_meteorologicos_bucaramanga_con_unidades.xlsx`
+### Ejecutar: Proceso completo 🚀
 
 ### Archivos generados
 
@@ -85,12 +50,6 @@ Las unidades agregadas son:
 - Velocidad Viento → Velocidad Viento (km/h)
 - Y todas las demás columnas con sus respectivas unidades
 
-## Dependencias
-
-- meteostat==1.6.7
-- pandas==2.2.3
-- openpyxl==3.1.5
-- numpy==1.26.4
 
 ## Estructura de datos
 
@@ -109,8 +68,6 @@ El archivo Excel generado contiene las siguientes columnas:
 - Horas de Sol (min) *
 - Condición del Tiempo *
 
-*Campos adicionales disponibles según la estación meteorológica
-
 ## Scripts disponibles
 
 | Script | Descripción |
@@ -118,11 +75,3 @@ El archivo Excel generado contiene las siguientes columnas:
 | `Main.py` | Extrae datos meteorológicos de Meteostat y genera archivo Excel sin unidades |
 | `agregar_unidades.py` | Toma el archivo Excel y agrega unidades a los nombres de columnas |
 | `proceso_completo.py` | Ejecuta ambos procesos automáticamente (Main.py + agregar_unidades.py) |
-| `ejecutar.sh` | Script interactivo con menú para elegir qué ejecutar |
-| `verificar_archivos.py` | Verifica y muestra información de los archivos Excel generados |
-
-## Notas
-
-- El archivo con unidades es **más legible** y **recomendado para uso final**
-- Ambos archivos contienen los mismos datos, solo difieren en los nombres de columnas
-- Los datos históricos están limitados a la disponibilidad de la API de Meteostat
