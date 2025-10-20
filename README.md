@@ -25,7 +25,6 @@ Obtén tu API key en: https://www.weatherapi.com/signup.aspx
 
 **Plan Gratuito incluye:**
 - 1,000,000 llamadas/mes
-- Datos históricos hasta 7 días atrás
 - Datos en tiempo real
 
 ## Instalación
@@ -102,7 +101,6 @@ El archivo Excel generado contiene las siguientes columnas con sus unidades:
 
 ### Limitaciones (Plan Gratuito):
 - ⚠️ Requiere API key (gratis)
-- ⚠️ Datos históricos solo hasta 7 días atrás
 - ⚠️ Límite de 1,000,000 llamadas/mes
 
 ### Para datos históricos antiguos:
