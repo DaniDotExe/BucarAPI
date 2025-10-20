@@ -72,6 +72,4 @@ El archivo Excel generado contiene las siguientes columnas:
 
 | Script | Descripción |
 |--------|-------------|
-| `Main.py` | Extrae datos meteorológicos de Meteostat y genera archivo Excel sin unidades |
-| `agregar_unidades.py` | Toma el archivo Excel y agrega unidades a los nombres de columnas |
-| `proceso_completo.py` | Ejecuta ambos procesos automáticamente (Main.py + agregar_unidades.py) |
+| `API_meteostat.py` | Extrae datos meteorológicos de Meteostat y genera archivo .xlsx |
